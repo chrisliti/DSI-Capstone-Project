@@ -3,5 +3,5 @@ matplotlib
 pandas
 streamlit
 opencv-python-headless
-tensorflow-cpu
+keras
 
