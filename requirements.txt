@@ -1,0 +1,7 @@
+numpy
+matplotlib
+keras
+pandas
+streamlit
+opencv-python-headless
+tensorflow-cpu
