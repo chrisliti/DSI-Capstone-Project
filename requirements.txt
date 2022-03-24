@@ -4,5 +4,5 @@ pandas
 streamlit
 opencv-python-headless
 keras
-tensorflow-cpu==2.6.0
+tensorflow
 
