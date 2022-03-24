@@ -1,8 +1,6 @@
 numpy
-matplotlib
 pandas
 streamlit
 opencv-python-headless
-keras
-tensorflow
+tensorflow-cpu
 
