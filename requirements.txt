@@ -1,7 +1,8 @@
 numpy
-matplotlib
-keras
+matplotlib==3.4.2
+keras==2.6.0
 pandas
-streamlit
+streamlit==1.0.0
 opencv-python-headless
+tensorflow-cpu
 
