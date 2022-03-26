@@ -1,5 +1,7 @@
 numpy
-streamlit
+matplotlib
+pandas
+streamlit==1.0.0
 opencv-python-headless
 tensorflow-cpu
 
